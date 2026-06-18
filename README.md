@@ -46,7 +46,7 @@ A robust, end-to-end Python pipeline for real-time handwritten digit recognition
 ### 2. Fast Setup
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/skyline-nismo/ELabs-KIIT.git
 cd ELabs-KIIT
 
 # Setup Virtual Environment (Highly Recommended)
